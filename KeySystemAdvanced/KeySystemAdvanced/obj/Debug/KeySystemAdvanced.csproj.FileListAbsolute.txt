@@ -1,0 +1,12 @@
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\bin\Debug\KeySystemAdvanced.exe.config
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\bin\Debug\KeySystemAdvanced.exe
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\bin\Debug\KeySystemAdvanced.pdb
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\bin\Debug\Guna.UI2.dll
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.csproj.AssemblyReference.cache
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.Form1.resources
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.Properties.Resources.resources
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.csproj.GenerateResource.cache
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySyste.7FE1FDCE.Up2Date
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.exe
+C:\Users\cfort\source\repos\KeySystemAdvanced\KeySystemAdvanced\obj\Debug\KeySystemAdvanced.pdb
